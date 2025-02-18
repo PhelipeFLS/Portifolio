@@ -1,12 +1,8 @@
 body {
-    color: antiquewhite;
-    background: url("bc.jpg") no-repeat fixed center;
+    background: url("img/bc.jpg") no-repeat fixed center;
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
-    height: 100vh;
-    margin: 0;
-    
+    height: 100vh;    
 }
 
 p {
@@ -43,3 +39,15 @@ p {
     left: 20px;
     font-size: 170px;
 }
+
+#seta img {
+    width: 50px;
+    height: 50px;
+}
+
+#seta {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }

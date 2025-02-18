@@ -1,0 +1,10 @@
+body {
+    background: darkgrey;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;    
+}
+
+#Navbar{
+    background-color: black;
+}
