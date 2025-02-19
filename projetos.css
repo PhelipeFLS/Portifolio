@@ -8,3 +8,22 @@ body {
 #Navbar{
     background-color: black;
 }
+
+div{
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 2%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 2%;
+    max-width: 100%;
+    width: 100%;
+    height: 100%;
+
+}
