@@ -1,5 +1,6 @@
 body {
-    background: url("img/bc.jpg") no-repeat fixed center;
+    color: aliceblue;
+    background: url("img/bc.gif") no-repeat fixed center;
     background-size: cover;
     background-position: center;
     height: 100vh;    

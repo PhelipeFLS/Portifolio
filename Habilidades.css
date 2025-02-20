@@ -1,0 +1,18 @@
+body {
+    color: aliceblue;
+    background: url("img/BC 2.gif") no-repeat fixed center;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+#Navbar{
+    background-color: black;
+    font-size:large;
+}
+
+div{
+    padding-top: 5%;
+    background-color: aliceblue;
+    color: black;
+}
